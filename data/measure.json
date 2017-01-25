@@ -1,0 +1,52 @@
+{
+	"type" : "FeatureCollection",
+	"totalFeatures" : 1,
+	"features" : [{
+			"type" : "Feature",
+			"id" : "sd_statdistmeasure_test.1",
+			"geometry" : null,
+			"properties" : {
+				"domain" : "1: Unemployment rates by sex, age and NUTS 2 regions (%)",
+				"id" : 1,
+				"measure" : "lfst_r_lfu3rt"
+			}
+		}, {
+			"type" : "Feature",
+			"id" : "sd_statdistmeasure_test.1",
+			"geometry" : null,
+			"properties" : {
+				"domain" : "2: Unemployment rates by sex, age and NUTS 2 regions (%)",
+				"id" : 2,
+				"measure" : "lfst_r_lfu3rt"
+			}
+		}, {
+			"type" : "Feature",
+			"id" : "sd_statdistmeasure_test.1",
+			"geometry" : null,
+			"properties" : {
+				"domain" : "3: Unemployment rates by sex, age and NUTS 2 regions (%)",
+				"id" : 3,
+				"measure" : "lfst_r_lfu3rt"
+			}
+		}, {
+			"type" : "Feature",
+			"id" : "sd_statdistmeasure_test.1",
+			"geometry" : null,
+			"properties" : {
+				"domain" : "4: Unemployment rates by sex, age and NUTS 2 regions (%)",
+				"id" : 4,
+				"measure" : "lfst_r_lfu3rt"
+			}
+		}, {
+			"type" : "Feature",
+			"id" : "sd_statdistmeasure_test.1",
+			"geometry" : null,
+			"properties" : {
+				"domain" : "5: Unemployment rates by sex, age and NUTS 2 regions (%)",
+				"id" : 5,
+				"measure" : "lfst_r_lfu3rt"
+			}
+		}
+	],
+	"crs" : null
+}
